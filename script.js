@@ -146,7 +146,10 @@ function initTypewriter() {
         'Penetration Tester',
         'Bug Bounty Hunter',
         'Cyber Forensics Expert',
-        'Security Researcher'
+        'Security Researcher',
+        'Research and Developer',
+        'Web Developer',
+        'AI/ML Enthusiast'
     ];
 
     let phraseIndex = 0;
