@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://ayushman-misra.tech/sitemap.xml
